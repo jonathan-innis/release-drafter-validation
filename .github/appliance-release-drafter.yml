@@ -1,6 +1,6 @@
 name-template: "appliance-v$NEXT_PATCH_VERSION"
 tag-template: "appliance-v$NEXT_PATCH_VERSION"
-version-template: "$MAJOR.$MINOR.$PATCH"
+version-template: "appliance-$MAJOR.$MINOR.$PATCH"
 categories:
   - title: '🚀 Features'
     labels:
